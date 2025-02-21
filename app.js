@@ -10,7 +10,7 @@ function exibirTextoNaTela(tag, texto) {
 }
 
 function exibirMensagemInicial() {
-    exibirTextoNaTela('h1', 'Joguinho da Juju Codadora');
+    exibirTextoNaTela('h1', 'Joguinho da Juju Codadora Master');
     exibirTextoNaTela('p', 'Escolha um número entre 1 e 1000. Anda logo, estou perdendo a paciência');
 }
 
